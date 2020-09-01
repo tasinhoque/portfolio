@@ -6,7 +6,7 @@ My personal portfolio to showcase my projects.
 
 [React](https://reactjs.org/) and [Material UI](https://material-ui.com/) are used for developing this web app.
 
-### [Live Demo](https://portfolio.vercel.app/)
+### [Live Demo](https://portfolio-gules-psi.vercel.app/)
 
 ## Installation
 
