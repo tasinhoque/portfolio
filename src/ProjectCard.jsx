@@ -13,7 +13,7 @@ import GitHubIcon from '@material-ui/icons/GitHub'
 
 const ProjectCard = ({ project }) => {
   return (
-    <Grid item xs={12} sm={6}>
+    <Grid item xs={12} md={6}>
       <Card>
         <CardHeader
           title={<Typography variant='h5'>{project.title}</Typography>}
