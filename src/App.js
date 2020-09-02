@@ -36,7 +36,7 @@ const projects = [
     title: 'Classical Music Recommender',
     technology: 'Node, Express, React, YouTube API V3 and Material UI',
     description:
-      'This web app suggests random piano or violin pieces. It starts playing the suggested music from YouTube immediately.',
+      'This web app suggests random piano or violin pieces. It fetches the music from YouTube and starts playing immediately.',
   },
   {
     img: muiTemplates,
