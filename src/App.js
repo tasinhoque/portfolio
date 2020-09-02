@@ -9,9 +9,9 @@ import {
   Slider,
 } from '@material-ui/core'
 
-import classical from './classical.png'
-import muiTemplates from './mui-templates.jpg'
-import myPic from './myPic.jpg'
+import classical from './images/classical.png'
+import muiTemplates from './images/mui-templates.jpg'
+import profilePicture from './images/profile-picture.jpg'
 
 import ProjectCard from './ProjectCard'
 
@@ -31,10 +31,10 @@ const skills = [
 const projects = [
   {
     img: classical,
-    demo: 'https://classical-music-recommender.vercel.app/',
+    demo: 'https://classical-music-recommender.herokuapp.com/',
     code: 'https://github.com/tasinhoque/classical-music-recommender',
     title: 'Classical Music Recommender',
-    technology: 'React, YouTube API V3 and Material UI',
+    technology: 'Node, Express, React, YouTube API V3 and Material UI',
     description:
       'This web app suggests random piano or violin pieces. It starts playing the suggested music from YouTube immediately.',
   },
@@ -67,7 +67,7 @@ function App() {
       <Box margin={5}>
         <center>
           <img
-            src={myPic}
+            src={profilePicture}
             height={imgSize}
             width={imgSize}
             alt='profile'
