@@ -1,5 +1,7 @@
 # Portfolio
 
+[![hackmd-github-sync-badge](https://hackmd.io/EouXlbYKSOOxdElg0rMnkw/badge)](https://hackmd.io/EouXlbYKSOOxdElg0rMnkw)
+
 My personal portfolio to showcase my projects.
 
 ### Technology Stack
@@ -10,7 +12,7 @@ My personal portfolio to showcase my projects.
 
 ## Installation
 
-Make sure [Node](https://nodejs.org/en/download/current/) is installed. Run the app in the development mode using the following commands:
+Make sure [Node.js](https://nodejs.org/en/download/current/) is installed. Run the app in the development mode using the following commands:
 
 ```
 npm i
